@@ -30,5 +30,6 @@
 <p>hej hej jeg hedder kaj</p>
 <!-- Her skal sidens indhold ligge -->
 
+    jeg hedder også kaj
 </body>
 </html>
